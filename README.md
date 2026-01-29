@@ -2,4 +2,4 @@
 This is my first Repository.
 <br>
 <br>
-author-kushagra Singh jadon
+author-kushagra Singh jadoN
